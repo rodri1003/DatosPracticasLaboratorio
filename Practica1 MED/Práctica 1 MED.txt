@@ -1,0 +1,11 @@
+UNIVERSIDAD DE ORIENTE.
+
+Práctica 1 MED
+
+Catedra: Manejo de Estructura de Datos.
+
+Instructor: Josué Isaí Herrera Benítez
+
+Estudiante: Rodrigo Alexander Mejia Molina
+
+Tema: Introducción a Python.
